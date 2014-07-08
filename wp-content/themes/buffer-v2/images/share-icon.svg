@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="17px" height="14px" viewBox="0 0 17 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.0.3 (7891) - http://www.bohemiancoding.com/sketch -->
+    <title>Type something</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="single-article" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Artboard-1" sketch:type="MSArtboardGroup" transform="translate(-667.000000, -736.000000)" fill="#8B959E">
+            <g id="article" sketch:type="MSLayerGroup" transform="translate(75.000000, 433.000000)">
+                <g id="Share-Button" transform="translate(575.000000, 290.000000)" sketch:type="MSShapeGroup">
+                    <path d="M29.2727273,24.4606742 L18.6363636,24.4606742 L18.6363636,16.8764045 L20.7636364,16.8764045 C20.7636364,16.8764045 21.32,16.1011236 22.5309091,15.1910112 L17.8181818,15.1910112 C17.36,15.1910112 17,15.5617978 17,16.0337079 L17,25.3033708 C17,25.741573 17.36,26.1460674 17.8181818,26.1460674 L30.0909091,26.1460674 C30.5490909,26.1460674 30.9090909,25.741573 30.9090909,25.3033708 L30.9090909,22.1348315 L29.2727273,23.5168539 L29.2727273,24.4606742 Z M27.9309091,18.5955056 L27.9309091,21.5955056 L33.3636364,17.2134831 L27.9309091,13 L27.9309091,15.6292135 C21.3527273,15.6292135 21.3527273,22.3370787 21.3527273,22.3370787 C23.2181818,19.1685393 24.3636364,18.5955056 27.9309091,18.5955056 Z" id="Type-something"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
