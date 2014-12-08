@@ -2,14 +2,14 @@
 
 Theme for Buffer's blogs.
 
-Theme Name: Buffer v2
-Author: Buffer, Inc. / Jamie Wilson
-Author URI: http://bufferapp.com/about/
-Description: Buffer blogs about social media, transparency, business, productivity, health, technology and much more.
-Version: 1.0.0
-License: (C)2014 Buffer Inc.
-Text Domain: blog.bufferapp.com
-Domain Path: /article/
+##Theme Name: Buffer v2
+- Author: Buffer, Inc. 
+- Author URI: http://bufferapp.com/about/
+- Description: Buffer blogs about social media, transparency, business, productivity, health, technology and much more.
+- Version: 1.0.0
+- License: MIT 2014 Buffer Inc.
+- Text Domain: blog.bufferapp.com
+- Domain Path: /article/
 
 Buffer v2 uses Underscores http://underscores.me/, (C) 2012-2014 Automattic, Inc.
 
